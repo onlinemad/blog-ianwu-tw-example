@@ -1,0 +1,9 @@
+{
+  "author": "Ian Wu <onlinemad@gmail.com>",
+  "name": "node-example-fake-referer",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "request": "~2.27.0"
+  }
+}
